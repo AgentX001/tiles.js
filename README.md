@@ -1,2 +1,3 @@
 # tiles.js
-Tilemaps on HTML5 Canvas
+Тайлмапсамы на JavaScriptе.
+Работаю над рефакторингом. 
